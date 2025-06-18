@@ -8,7 +8,7 @@ interface ServicePageProps {
 }
 
 export default function ServicePage({ service }: ServicePageProps) {
-  const canonicalUrl = `https://yourdomain.com/services/${service.slug}`;
+  const canonicalUrl = `https://kubexdigital.com/services/${service.slug}`;
 
   return (
     <>
