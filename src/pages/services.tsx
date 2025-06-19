@@ -75,7 +75,7 @@ export default function Services() {
       <SEO
         title="Our Services | Kubex Digital Agency"
         description="Discover full-suite digital marketing services tailored to elevate your business growth with Kubex."
-        url="https://yourdomain.com/services"
+        url="https://kubexdigital/services"
       />
 
       <main className="bg-white text-gray-800 pt-16 pb-12 px-6">

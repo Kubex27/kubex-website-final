@@ -104,7 +104,7 @@ export default function Home() {
 
         <Link href="/services" passHref>
           <Button style={{ cursor: 'pointer' }} className="bg-black text-white px-8 py-3 rounded-md text-lg mt-12">
-            LET&apos;tS WORK TOGETHER
+            LET&apos;S WORK TOGETHER
           </Button>
         </Link>
       </section>
@@ -122,7 +122,7 @@ export default function Home() {
           <div className="w-20 h-1 bg-black mx-auto mb-8 rounded-full" />
 
           <p className="text-xl md:text-2xl text-gray-600 leading-relaxed">
-            We&apos;tre a full-service digital agency that partners with businesses to
+            We&apos;re a full-service digital agency that partners with businesses to
             build
             <span className="text-black font-semibold"> memorable brands</span>,
             grow online presence, and convert leads into
@@ -168,10 +168,10 @@ export default function Home() {
       >
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-4 text-gray-900">
-            Let’s Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-lg text-gray-600 mb-12">
-            Ready to elevate your brand? Fill out the form below and we’ll get
+            Ready to elevate your brand? Fill out the form below and we&apos;ll get
             back to you shortly.
           </p>
         </div>
